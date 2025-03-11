@@ -7,7 +7,7 @@ body {
 main {
   max-width: 800px; /* Limits text width */
   margin: 0 auto; /* Centers content */
-  text-align: left;
+  text-align: center;
 }
 
 img {
