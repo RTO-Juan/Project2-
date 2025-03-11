@@ -1,6 +1,6 @@
 body {
   color: white;
-  background-color: #888;
+  background-color: #202020;
 }
 
 
@@ -57,7 +57,7 @@ h1, h2, h3{
 
 .cat{
   display: flex;
-  flex-warp: warp;
+  flex-warp: nowarp;
   justify-content: center;
   gap: 20px;
 }
