@@ -11,13 +11,18 @@ p{
   text-align: center;
   color: white;
 }
-
-.plumbing{
+.plumbing, .cat {
   text-align: center;
 }
 
-.cat {
-  text-align: center;
+.plumbing .img-container, .cat .img-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.plumbing img, .cat img {
+  width: 30%; /* Adjust size as needed */
 }
   
 nav {
