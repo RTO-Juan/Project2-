@@ -52,7 +52,7 @@ h1, h2, h3{
   
 }
 .plumbing, .cat {
-  margin-bottom: 40px;
+  margin-bottom: 0;
 }
 
 .cat{
@@ -63,7 +63,7 @@ h1, h2, h3{
 }
 .plumbing img, .cat img {
   display: inline-block;
-  width: 200px;
+  width: 300px;
 }
 
 .plumbing video {
