@@ -11,31 +11,6 @@ p{
   color: white;
 }
 
-h1, h2, h3, h4 {
-    margin-bottom: 10px;
-}
-
-h2 {
-    border-bottom: 2px solid #ffffff;
-    padding-bottom: 5px;
-    margin-top: 20px;
-    text-align: center;
-}
-
-h3 {
-    margin-top: 15px;
-}
-
-h4 {
-    margin-top: 5px;
-    font-weight: normal;
-}
-.plumbing{
-  text-align: center;
-}
-.cat{
-  text-align: center;
-}
 
 nav {
   background: #222;
