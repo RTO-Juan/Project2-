@@ -51,15 +51,21 @@ h1, h2, h3{
    text-align: center
   
 }
-.plumbing, .cat {
-  margin-bottom: 0;
-}
 
 }
-.plumbing img, .cat img {
+.plumbing img{
   display: inline-block;
   width: 300px;
 }
+
+.cat-images{
+  display:flex;
+}
+
+.cat-images img {
+  width: 250px;
+  height: auto;
+}   
 
 .plumbing video {
   display: block;
