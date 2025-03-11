@@ -74,3 +74,10 @@ h1, h2, h3{
   width: 200px;
   height: auto;
 }
+
+
+.resume{
+  text-align: left;
+  max-width: 800px;
+  margin: 0 auto;
+}
