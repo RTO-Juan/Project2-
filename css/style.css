@@ -1,6 +1,8 @@
 body {
   color: white;
+  background-color: black;
 }
+
 img {
     width: 200px;
     display: inline-block;
@@ -9,11 +11,6 @@ img {
 p{
   text-align: center;
   color: white;
-}
-.plumbing, .cat {
-  text-align: center;
-  display: flex;
-  gap: 20px;
 }
 
 nav {
