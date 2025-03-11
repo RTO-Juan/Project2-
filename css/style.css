@@ -26,6 +26,9 @@ h4 {
     margin-top: 5px;
     font-weight: normal;
 }
+.plumbing{
+  text-align: center
+}
 
 nav {
   background: #222;
