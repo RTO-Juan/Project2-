@@ -12,6 +12,14 @@ p{
   color: white;
 }
 
+.plumbing{
+  text-align: center;
+}
+
+.cat {
+  text-align: center;
+}
+  
 nav {
   background: #222;
   text-align: right;
