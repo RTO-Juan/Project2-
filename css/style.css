@@ -57,9 +57,9 @@ h1, h2, h3{
 
 .cat{
   display: flex;
-  flex-warp;
+  flex-warp: warp;
   justify-content: center;
-   gap: 20px;
+  gap: 20px;
 }
 .plumbing img, .cat img {
   display: inline-block;
@@ -69,5 +69,6 @@ h1, h2, h3{
 .plumbing video {
   display: block;
   margin: 10px auto;
-  max-width: 300px;
+  width: 200px;
+  height: auto;
 }
