@@ -1,7 +1,14 @@
 body {
   color: white;
 }
+main {
+    text-align: center;
+}
 
+img, video {
+    display: block;
+    margin: 0 auto;
+}
 
 p{
   text-align: center;
@@ -29,10 +36,8 @@ h4 {
 .plumbing{
   text-align: center
 }
-
-img{
-max-width: 50%;
-max-height: 50%
+.cat{
+  text-align: center
 }
 
 nav {
