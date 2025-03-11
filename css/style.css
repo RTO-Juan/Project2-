@@ -14,14 +14,21 @@ h1 {
 }
 
 
-.runes-container {
-    display: flex;
-    gap: 30px; 
+h2 {
+  color: black;
+  margin-left: 0px;
 }
-ul {
-    list-style-type: none; 
-    background-color: #222;
-    color: white;
-    padding: 15px;
-    border-radius: 5px;
+
+
+h3 {
+  color: black;
+  margin-left: 0px;
 }
+
+
+h4 {
+  color: black;
+  margin-left: 0px;
+}
+
+
