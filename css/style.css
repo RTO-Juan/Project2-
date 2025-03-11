@@ -4,6 +4,7 @@ body {
 img, video {
     display: block;
     margin: 0 auto;
+    display: felx;
 }
 
 p{
@@ -22,7 +23,7 @@ nav ul {
   list-style: none;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center;  
   gap: 30px;
   padding: 0;
   margin: 0;
