@@ -6,6 +6,7 @@ body {
 img {
     width: 200px;
     display: inline-block;
+    margin: 10px;
 }
 
 p{
@@ -23,10 +24,32 @@ nav {
 nav ul {
   list-style: none;
   display: flex;
-  justify-content: center;
-  align-items: center;  
+  justify-content: flex-end; 
+  align-items: center;
   gap: 30px;
   padding: 0;
   margin: 0;
-  margin-left: auto;
+}
+
+nav ul li {
+  margin: 0;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.plumbing, .cat {
+  margin-bottom: 40px;
+}
+
+.plumbing img, .cat img {
+  display: inline-block;
+  width: 200px;
+}
+
+.plumbing video {
+  display: block;
+  margin: 10px auto;
 }
