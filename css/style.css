@@ -3,6 +3,13 @@ body {
   background-color: black;
 }
 
+
+main {
+  max-width: 800px; /* Limits text width */
+  margin: 0 auto; /* Centers content */
+  text-align: left;
+}
+
 img {
     width: 200px;
     display: inline-block;
