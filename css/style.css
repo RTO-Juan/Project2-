@@ -15,8 +15,14 @@ h1 {
 }
 
 
-ul li {
-  background: #cce5ff;
-  color: darkblue;
-  margin: 5px;
+.runes-container {
+    display: flex;
+    gap: 30px; 
+}
+ul {
+    list-style-type: none; 
+    background-color: #222;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
 }
