@@ -84,13 +84,15 @@ h1, h2, h3{
 .runes{
   display: flex;
   justify-content: space-between;
+  align-items: flex-start;
   max-width: 600px;
   margin: 0 auto;
+  gap: 20px;
 }
 
 
 .rune-column {
-  width: 50%;
+  width: 45%;
 }
 
 .rune-column h3 {
