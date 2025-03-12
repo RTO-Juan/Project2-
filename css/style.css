@@ -9,7 +9,15 @@ main {
   margin: 0 auto; 
   text-align: left;
 }
-
+img {
+ 
+    width: 200px;
+ 
+    display: inline-block;
+ 
+    margin: 10px;
+ 
+}
 
 p{
   text-align: center;
@@ -72,13 +80,10 @@ h1, h2, h3{
 }
 
 
-.resume{
+.resume {
   text-align: left;
-  max-width: 800px;
-  margin: 0 auto;
+  padding: 20px;
 }
 
-.resume h1, h2, h3,h4 ul, h5 p{
-  text-align: left;
+img{
   
-}
