@@ -61,6 +61,7 @@ h1, h2, h3{
 .cat-images img {
   width: 250px;
   height: auto;
+  gap: 0px;
 }   
 
 .plumbing video {
