@@ -76,7 +76,32 @@ h1, h2, h3{
 }
 
 .aatrox-image img{
-  width: 250px;
+  width: 500px;
   height: auto;
   gap: 0px;
+}
+
+.runes{
+  display: flex;
+  justify-content: space-between;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+
+.rune-column {
+  width: 50%;
+}
+
+.rune-column h3 {
+  text-align: left; 
+}
+
+.rune-column ul {
+  list-style: none;
+  padding: 0;
+}
+
+.rune-column li {
+  text-align: left;
 }
